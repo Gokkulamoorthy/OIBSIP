@@ -1,0 +1,29 @@
+body{
+    background: #f5f6fa;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size: large;
+}
+
+.pc{
+    background-color: black;
+    margin-top: 100px;
+    padding-top: 100px;
+    border-radius: 5px; 
+    padding-bottom: 5px;
+}
+.quotes{
+    color: #f5f6fa;
+    padding-left: 720px;
+    margin-top: -320px;
+    padding-right: 200px;
+    font-size: 25px;
+}
+.bio{
+    padding-top: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 25px;
+}
+.me{
+    font-size: medium;
+}
